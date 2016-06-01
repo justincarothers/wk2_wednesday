@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(50, 35, 50, 0.5);
+}
+
+.container {
+  text-align: center;
+  background-color: rgba(50, 35, 50, 0.1);
+}
+
+input {
+  max-width: 300px;
+}
+
+h2 {
+  text-align: left;
+}
+
+.buttonDiv {
+  background-color: rgba(50, 35, 50, 0.1);
+  margin-top: 200px;
+}
