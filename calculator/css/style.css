@@ -1,8 +1,12 @@
 body {
   background-color: rgba(50, 35, 50, 0.5);
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.container {
+.container-fluid {
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
   background-color: rgba(50, 35, 50, 0.1);
 }
@@ -17,5 +21,22 @@ h2 {
 
 .buttonDiv {
   background-color: rgba(50, 35, 50, 0.1);
-  margin-top: 200px;
+  margin-top: 100px;
+}
+
+.colorPick {
+  background-color: rgba(50, 35, 50, 0.3);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#color {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.colorbox {
+  height: 300px;
+  width: 800px;
 }
